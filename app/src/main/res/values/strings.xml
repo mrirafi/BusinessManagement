@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">Open NavDrawer</string>
+    <string name="close">Close NavDrawer</string>
+</resources>
